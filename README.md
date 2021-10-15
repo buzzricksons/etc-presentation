@@ -4,5 +4,11 @@
 - Selenide: CONCISE UI TESTS IN JAVA
     - [Korean](https://docs.google.com/presentation/d/1WI5rYHtxHFLgNXjnHy0W4wBa-MNKdgzWQNnZ-QsGU-M/edit#slide=id.p)
     - [Japanese](https://docs.google.com/presentation/d/1wpLI5G2XxPeEMPUgpK4gTbo5e5QkSjLNbwa-bMqMSTI/edit#slide=id.p)
- - 재택근무지름기
+ - 재택근무 지름기
     - [Korean](https://docs.google.com/presentation/d/1ufliV8pUP1z-DNtUkw7m-xuVw3nmMS_UOiGcchR-J0Q/edit?usp=sharing)
+ - 재택근무 지름기2
+    - [Korean](https://drive.google.com/file/d/17Dm4ce-qn2j0IuT5T6FUh6MvfMNpC5jT/view)
+ - elastic search
+    - [Korean](https://docs.google.com/presentation/d/1DoRLqqSngJygZMPQIrGNFIyn3vUnVBNazDEa62xFmjM/edit?usp=sharing)
+ - Automatic merge in Bitbucket
+    - [Korean](https://docs.google.com/presentation/d/1zCvFGX_H7BOzVcH1xHYt9tLpmowC7Pfs/edit?usp=sharing&ouid=115399143473801873055&rtpof=true&sd=true)
